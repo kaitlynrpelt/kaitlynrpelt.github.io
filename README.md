@@ -19,4 +19,4 @@ Project.
 
 ## Website
 
-https://kaitlynpelt189-svg.github.io
+https://kaitlynrpelt.github.io
